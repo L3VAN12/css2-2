@@ -1,0 +1,93 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* header */
+#link-box {
+    display: inline-block;
+    vertical-align: middle;
+}
+#navigation-logo {
+    padding: 12px 80px 12px 80px;
+    vertical-align: middle;
+}
+#navigation {
+    background-color: #FAFAFA;
+    width: 1920px;
+    max-width: 100%;
+    text-align: center;
+}
+#Contact-button {
+    font-size: 14px;
+    padding: 8px 16px;
+    border: 1px solid #00AC25;
+    border-radius: 8px;
+    background-color: #00AC25;
+    color: #FAFAFA;
+    margin-left: 100px;
+}
+#link-box a {
+    padding-right: 20px;
+    text-decoration: none;
+    color: #323232;
+}
+#About {
+    color: #FF5DA3;
+    margin-left: 100px;
+    margin-right: 20px;
+    text-decoration: none;
+}
+/* main */
+#main-div {
+    text-align: center;
+    margin-top: 178px;
+}
+#second-div {
+    color: #FF5DA3;
+    font-size: 72px;
+}
+#first-div {
+    font-size: 72px;
+}
+#main-text {
+    font-size: 24px;
+    width: 1316px;
+    max-width: 100%;
+    margin-left: 290px;
+    margin-top: 24px;
+}
+#second-main-text {
+    font-size: 48px;
+    margin-top: 24px;
+}
+#last-main-text {
+    color: #6941C6;
+    width: 716px;
+    max-width: 100%;
+    text-align: center;
+    margin-left: 600px;
+    font-size: 24px;
+    margin-top: 24px;
+}
+#Become-an-instructor-button {
+    padding: 16px 24px 16px 24px;
+    border-radius: 8px;
+    border: solid #00AC25;
+    background-color: #00AC25;
+    color: #FAFAFA;
+    margin-top: 24px;
+}
+/* footer */
+#main-footer {
+    background-color: #53389E;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    margin-top: 100px;
+}
+#footer-container {
+    background-color: #53389E;
+    width: 1280px;
+    max-width: 100%;
+    text-align: center;
+}
