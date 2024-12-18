@@ -46,27 +46,30 @@
 #second-div {
     color: #FF5DA3;
     font-size: 72px;
+    font-weight: bold;
 }
 #first-div {
     font-size: 72px;
+    font-weight: bold;
 }
 #main-text {
     font-size: 24px;
     width: 1316px;
     max-width: 100%;
-    margin-left: 290px;
+    margin: 0 auto;
     margin-top: 24px;
 }
 #second-main-text {
     font-size: 48px;
     margin-top: 24px;
+    font-weight: bold;
 }
 #last-main-text {
     color: #6941C6;
     width: 716px;
     max-width: 100%;
     text-align: center;
-    margin-left: 600px;
+    margin: 0 auto;
     font-size: 24px;
     margin-top: 24px;
 }
@@ -86,8 +89,24 @@
     margin-top: 100px;
 }
 #footer-container {
-    background-color: #53389E;
     width: 1280px;
     max-width: 100%;
-    text-align: center;
+    margin: 0 auto;
+}
+#footer-link-box {
+    display: inline-block;
+    vertical-align: middle;
+    text-decoration: none;
+    margin-left: 250px;
+}
+#footer-link-box a {
+    padding-right: 20px;
+    text-decoration: none;
+    color: #E9D7FE;
+}
+#footer-last-p {
+    display: inline-block;
+    text-align: right;
+    margin-left: 250px;
+    color: #FAFAFA;
 }
